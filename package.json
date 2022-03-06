@@ -5,6 +5,9 @@
   "scripts": {
     "start": "node ./server.js"
   },
+  "engine": {
+    "node": "14.x"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "bootstrap": "^5.1.1",
@@ -17,11 +20,11 @@
     "mongoose": "^6.0.8",
     "morgan": "~1.9.1"
   },
-  "description": "COMP229 W2022 Midterm template",
+  "description": "COMP229.002 W2022 Midterm 301221536",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JViniX/comp229-W2022-midterm-template.git"
+    "url": "git+https://github.com/psivak12/COMP229002-W2022-MidTerm-301221536.git"
   },
   "keywords": [
     "Midterm",
@@ -30,10 +33,10 @@
     "Express",
     "EJS"
   ],
-  "author": "Julio Vinicius",
+  "author": "Pavithran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JViniX/comp229-W2022-midterm-template/issues"
+    "url": "https://github.com/psivak12/COMP229002-W2022-MidTerm-301221536/issues"
   },
-  "homepage": "https://github.com/JViniX/comp229-W2022-midterm-template#readme"
+  "homepage": "https://github.com/psivak12/COMP229002-W2022-MidTerm-301221536#README.md"
 }
